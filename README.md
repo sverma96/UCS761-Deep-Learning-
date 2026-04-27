@@ -7,3 +7,4 @@ Deep Learning Lab Assignments
 5) Learning to Bend a Model: Bend_Model_DL
 6) From Shallow to Deep: What Really Changes? - Shallow_to_Deep_DL
 7) From Numbers to Vision: Building, Breaking, Comparing - Assignment_7_DL
+8) Sequence Modelling 
